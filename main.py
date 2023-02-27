@@ -3,10 +3,10 @@ import os
 import math
 
 # 영상 파일 경로
-input_path = './ProjectFile/video2image/video/'
+input_path = 'video/'
 
 # 추출한 이미지 파일 경로
-output_path = './ProjectFile/video2image/img/'
+output_path = 'img/'
 
 # 추출할 이미지 갯수
 EXTRACTION = 1000
